@@ -1,0 +1,21 @@
+LARGURA = 480
+ALTURA = 600
+
+#TITULO DO JOGO
+TITULO_JOGO = 'PACMAN'
+
+FPS = 30
+
+
+PRETO = (0,0,0)
+AMARELO = (244,233,51)
+BRANCO = (255,255,255)
+
+SPRITESHEET = 'spritesheet.png'
+PACKMAN_START_LOGO = 'pacman-logo-1.PNG'
+
+FONTE = 'arial'
+
+
+MUSICA_START = 'intermission.wav'
+TECLA_START = 'munch_1.wav'
